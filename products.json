@@ -1,0 +1,12 @@
+{
+    "products": [
+        {
+            "URL": "https://www.amazon.in/Test-Exclusive-749/dp/B07DJ8K2KT/ref=sr_1_2?crid=3PVI0GRF35AT2&dchild=1&keywords=oneplus+7t&qid=1601439032&sprefix=onepl%2Caps%2C698&sr=8-2",
+            "price": 40000.0
+        },
+        {
+            "URL": "https://www.amazon.in/Test-Exclusive-748/dp/B07DJLVJ5M/ref=sr_1_1?crid=3PVI0GRF35AT2&dchild=1&keywords=oneplus+7t&qid=1601441754&sprefix=onepl%2Caps%2C698&sr=8-1",
+            "price": 35000.0
+        }
+    ]
+}
