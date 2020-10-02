@@ -4,7 +4,7 @@ We often like some product on Amazon.com, but led down by our budget.
 
 Worry no more!! This project may come in handy for such situations.
 
-This is a simple scrapper project that using `BeautifulSoup` and `requests` libraries of python, which tracks down the price and notifies you whenever a item you mentioned in `products.json` file comes down to your price.
+This is a simple scrapper project using `BeautifulSoup` and `requests` libraries of python, which tracks down the price and notifies you whenever a item you mentioned in `products.json` file comes down to your price.
 
 **Note:** Example `product.json` file is present in repository.
 
