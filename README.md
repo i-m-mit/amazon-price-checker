@@ -15,6 +15,12 @@ This is a simple scrapper project using `BeautifulSoup` and `requests` libraries
 * Requests - `pip install requests`
 * DotEnv - `pip install python-dotenv`
 
+**Note:** Please install required packages using the following command
+
+```
+pip install -r requirements.txt
+```
+
 ## Format of .env file
 
 Generate a new file named `.env` and paste following text into it.
